@@ -1,0 +1,13 @@
+OutputAudioDeviceChanger:
+
+FOR WINDOWS ONLY
+
+Written in C#.
+
+This project is created in order to allow you to easily change the default output audio device (instead of using the windows GUI).
+
+The application would start in the tray notification bar and will contain a context menu that will let you change the default output audio device.
+
+NOTE:
+The core API of this program was taken from another open source project: https://github.com/hirekoke/CoreAudioApi
+This project adds a GUI for it and simplifies the interface.

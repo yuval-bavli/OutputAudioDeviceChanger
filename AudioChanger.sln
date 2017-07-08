@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioChanger", "AudioChanger\AudioChanger.csproj", "{92149F25-2810-4018-A925-6697C058D1E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gui", "Gui\Gui.csproj", "{721909C3-634C-4C6F-B566-B7CE0801EC36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92149F25-2810-4018-A925-6697C058D1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92149F25-2810-4018-A925-6697C058D1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92149F25-2810-4018-A925-6697C058D1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92149F25-2810-4018-A925-6697C058D1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721909C3-634C-4C6F-B566-B7CE0801EC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721909C3-634C-4C6F-B566-B7CE0801EC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721909C3-634C-4C6F-B566-B7CE0801EC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721909C3-634C-4C6F-B566-B7CE0801EC36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
